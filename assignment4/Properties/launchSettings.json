@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "assignment4": {
+      "commandName": "Project",
+      "commandLineArgs": "lingo-words.txt"
+    }
+  }
+}

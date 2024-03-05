@@ -1,0 +1,11 @@
+C:\Users\hugoj\source\repos\week5\MyTools\bin\Debug\net6.0\MyTools.deps.json
+C:\Users\hugoj\source\repos\week5\MyTools\bin\Debug\net6.0\MyTools.dll
+C:\Users\hugoj\source\repos\week5\MyTools\bin\Debug\net6.0\MyTools.pdb
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\MyTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\MyTools.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\MyTools.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\MyTools.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\MyTools.dll
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\refint\MyTools.dll
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\MyTools.pdb
+C:\Users\hugoj\source\repos\week5\MyTools\obj\Debug\net6.0\ref\MyTools.dll

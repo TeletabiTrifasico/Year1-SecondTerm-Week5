@@ -1,0 +1,11 @@
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\bin\Debug\net6.0\CandyCrushLogic.deps.json
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\bin\Debug\net6.0\CandyCrushLogic.dll
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\bin\Debug\net6.0\CandyCrushLogic.pdb
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.dll
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\refint\CandyCrushLogic.dll
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\CandyCrushLogic.pdb
+C:\Users\hugoj\source\repos\week5\CandyCrushLogic\obj\Debug\net6.0\ref\CandyCrushLogic.dll

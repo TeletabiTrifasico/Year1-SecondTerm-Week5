@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "assignment2/1.0.0": {
+        "dependencies": {
+          "CandyCrushLogic": "1.0.0"
+        },
+        "runtime": {
+          "assignment2.dll": {}
+        }
+      },
+      "CandyCrushLogic/1.0.0": {
+        "runtime": {
+          "CandyCrushLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CandyCrushLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
